@@ -1,0 +1,24 @@
+C:\Users\Mustafa\Desktop\SilverlightApplication1 - Copy\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll.config
+C:\Users\Mustafa\Desktop\SilverlightApplication1 - Copy\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\Users\Mustafa\Desktop\SilverlightApplication1 - Copy\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\Users\Mustafa\Desktop\SilverlightApplication1 - Copy\SilverlightApplication1.Web\obj\Release\SilverlightApplication1.Web.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\SilverlightApplication1 - Copy\SilverlightApplication1.Web\obj\Release\SilverlightApplication1.Web.dll
+C:\Users\Mustafa\Desktop\SilverlightApplication1 - Copy\SilverlightApplication1.Web\obj\Release\SilverlightApplication1.Web.pdb
+C:\Users\Mustafa\Desktop\project0\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll.config
+C:\Users\Mustafa\Desktop\project0\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\Users\Mustafa\Desktop\project0\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\Users\Mustafa\Desktop\project0\SilverlightApplication1.Web\obj\Release\SilverlightApplication1.Web.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\project0\SilverlightApplication1.Web\obj\Release\SilverlightApplication1.Web.dll
+C:\Users\Mustafa\Desktop\project0\SilverlightApplication1.Web\obj\Release\SilverlightApplication1.Web.pdb
+C:\Users\Mustafa\Desktop\fuck\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll.config
+C:\Users\Mustafa\Desktop\fuck\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\Users\Mustafa\Desktop\fuck\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\Users\Mustafa\Desktop\fuck\SilverlightApplication1.Web\obj\Release\SilverlightApplication1.Web.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\fuck\SilverlightApplication1.Web\obj\Release\SilverlightApplication1.Web.dll
+C:\Users\Mustafa\Desktop\fuck\SilverlightApplication1.Web\obj\Release\SilverlightApplication1.Web.pdb
+C:\Users\Mustafa\Desktop\project03\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll.config
+C:\Users\Mustafa\Desktop\project03\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\Users\Mustafa\Desktop\project03\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\Users\Mustafa\Desktop\project03\SilverlightApplication1.Web\obj\Release\SilverlightApplication1.Web.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\project03\SilverlightApplication1.Web\obj\Release\SilverlightApplication1.Web.dll
+C:\Users\Mustafa\Desktop\project03\SilverlightApplication1.Web\obj\Release\SilverlightApplication1.Web.pdb
