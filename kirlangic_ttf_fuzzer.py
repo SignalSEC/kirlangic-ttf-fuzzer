@@ -5,6 +5,7 @@
 
 # Visit github.com/signalsec for latest updates
 # Java/Silverlight Generator Scripts located in Github page
+# thanks to lclee_vx for bug fix
 
 import argparse
 import logging
